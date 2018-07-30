@@ -1,0 +1,11 @@
+C:\Users\mmehndiratta\source\repos\EfConsoleApplication\EfConsoleApplication\bin\Debug\EfConsoleApplication.exe.config
+C:\Users\mmehndiratta\source\repos\EfConsoleApplication\EfConsoleApplication\bin\Debug\EfConsoleApplication.exe
+C:\Users\mmehndiratta\source\repos\EfConsoleApplication\EfConsoleApplication\bin\Debug\EfConsoleApplication.pdb
+C:\Users\mmehndiratta\source\repos\EfConsoleApplication\EfConsoleApplication\bin\Debug\EntityFramework.dll
+C:\Users\mmehndiratta\source\repos\EfConsoleApplication\EfConsoleApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mmehndiratta\source\repos\EfConsoleApplication\EfConsoleApplication\bin\Debug\EntityFramework.xml
+C:\Users\mmehndiratta\source\repos\EfConsoleApplication\EfConsoleApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mmehndiratta\source\repos\EfConsoleApplication\EfConsoleApplication\obj\Debug\EfConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\mmehndiratta\source\repos\EfConsoleApplication\EfConsoleApplication\obj\Debug\EfConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\mmehndiratta\source\repos\EfConsoleApplication\EfConsoleApplication\obj\Debug\EfConsoleApplication.exe
+C:\Users\mmehndiratta\source\repos\EfConsoleApplication\EfConsoleApplication\obj\Debug\EfConsoleApplication.pdb
